@@ -1,6 +1,6 @@
 # Hi, I'm Meghana Ananda! 👋
 
-**🚀 Machine Learning Engineer | Data Scientist**  | 
+**🚀 Machine Learning Engineer
 🎓 MSAI @ UT Austin
 
 📌 Passionate about **AI, Deep Learning, and Data-Driven Solutions**  
