@@ -1,7 +1,7 @@
 # Hi, I'm Meghana Ananda! 👋
 
 **🚀 Machine Learning Engineer | Data Scientist**  | 
-🎓 Master's in **Data Science & Machine Learning** – IIT Madras 
+🎓 MSAI @ UT Austin
 
 📌 Passionate about **AI, Deep Learning, and Data-Driven Solutions**  
 
