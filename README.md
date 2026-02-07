@@ -98,9 +98,7 @@
 💼 **Professional Experience**:
 - **PSI Metals NA**: Application Consultant | Software Development Consultant  
   - Expertise in optimizing production processes through data-driven insights and cross-team collaboration.  
-  - Delivered actionable solutions using SQL, Statistical Modeling, and Deep Learning.  
-- **Pegasystems**: Solutions Engineer  
-  - Led the development of applications using workflows, solution delivery, and UI components in PRPC.  
+  - Delivered actionable solutions using SQL, Statistical Modeling, and Deep Learning.   
 - **Accenture & Go With DOT**: Backend Developer and Application Developer Associate  
   - Designed APIs and implemented scalable backend architectures for enterprise systems.
     
